@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Trip - Memories</title>
+  <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="assets/rafflesia.png" />
+
+</head>
+<body>
+<header>
+  <h1 class="site-title"><a href="index.html" class="title-link"><img src="assets/rafflesia.png" class="site-logo" alt="Rafflesia">Memories</a></h1>
+  <nav>
+    <a href="index.html" class="active">Home</a>
+    <a href="destinations.html">Destinations</a>
+    <a href="favorites.html">My Trip</a>
+    <a href="about.html">About Us</a>
+  </nav>
+</header>
+
+<h2 class="title">My Trip Planner</h2>
+
+<div class="total-bar" id="total">Total Budget: RM 0</div>
+<div class="clear-container">
+  <button id="clearBtn" class="btn-reset" onclick="clearAllFavorites()">Clear All</button>
+</div>
+
+<div id="favorites"></div>
+
+<footer>
+  <p>Made with ❤️ for Malaysia</p>
+  <p class="footer-credit">Data & images sourced from various Malaysian tourism boards.</p>
+</footer>
+
+<script src="func.js"></script>
+</body>
+</html>

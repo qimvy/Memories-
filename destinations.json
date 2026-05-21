@@ -1,0 +1,991 @@
+[
+  {
+    "id": 1,
+    "name": "Awana Genting SkyWay Cable Car",
+    "state": "Pahang",
+    "price": 30,
+    "category": "City",
+    "description": "Awana SkyWay is a modern cable car system in Genting Highlands that connects Awana Station, Chin Swee Station and SkyAvenue Station. This cable car takes visitors up to the top of Genting in about 10 minutes while enjoying aerial views of tropical rainforests, misty mountains and Genting resorts.",
+    "image": "https://images.pexels.com/photos/34578393/pexels-photo-34578393.jpeg",
+    "latitude": 3.421  ,
+    "longitude": 101.785
+  },
+
+  {
+    "id": 2,
+    "name": "National Park Malaysia",
+    "state": "Pahang",
+    "price": 3,
+    "category": "Nature",
+    "description": "Taman Negara is a vast national park in Malaysia on the Malay peninsula. It encompasses a sprawling tropical rainforest that's said to be 130 million years old. Kuala Tahan, the main entry point, is a base for the nearby canopy walkway, river trips and treks through the jungle to the top of Mt. Tahan. The park is home to tigers, macaques and birdlife, as well as the enormous flowers of the rafflesia plant.",
+    "image": "https://www.agoda.com/wp-content/uploads/2024/07/canopy-walkway-in-Taman-Negara-National-Park-Malaysia-1-1244x700.jpg",
+    "latitude": 4.390,
+    "longitude": 102.406
+  },
+
+  {
+    "id": 3,
+    "name": "Teluk Cempedak",
+    "state": "Pahang",
+    "price": 0,
+    "category": "Beach",
+    "description": "Teluk Cempedak is a scenic coastal beach located just five kilometres from Kuantan city centre in Pahang. Framed by rocky outcrops and lush casuarina forests, it offers a picturesque setting for swimming, jogging, and seaside dining. Visitors can stroll along wooden walkways, spot playful monkeys among the trees, or enjoy fresh seafood at beachfront restaurants. The beach is especially popular during weekends and evenings, when locals and tourists gather to watch spectacular sunsets over the South China Sea, making it a beloved recreational hub for families and nature lovers.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKeLZ1GD_rtatEzF5AGXjx2hBeq2xA8S4QDQ&s",
+    "latitude": 3.8126,
+    "longitude": 103.3720
+  },
+
+  {
+    "id": 4,
+    "name": "Sungai Lembing Museum",
+    "state": "Pahang",
+    "price": 3,
+    "category": "Culture",
+    "description": "Sungai Lembing Museum is a heritage museum in Kuantan, Pahang, Malaysia dedicated to the history of tin mining in the Sungai Lembing area. Housed in a colonial building that was the former residence of the mine manager, the museum features relics of the mining industry that once made Sungai Lembing one of the world's leading tin producers.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIp4RHSf5yJfDPQGPfNFl7e6anr6xM8YNLIw&s",
+    "latitude": 3.9138,
+    "longitude": 103.0324
+  },
+
+  {
+    "id": 5,
+    "name": "Desaru Beach",
+    "state": "Johor",
+    "price": 0,
+    "category": "Beach",
+    "description": "Desaru Beach is a pristine 25 kilometre stretch of golden sand located along the southeastern coast of Johor, facing the South China Sea. Renowned for its calm turquoise waters and swaying casuarina trees, it is an ideal destination for swimming, sunbathing, and beachside relaxation. Visitors can enjoy thrilling water sports, fresh seafood at local restaurants, and nearby attractions such as Desaru Coast Adventure Waterpark and the Desaru Fruit Farm. With its tranquil atmosphere and luxury resorts, Desaru Beach offers a perfect tropical escape for families, couples, and adventure seekers alike.",
+    "image": "https://petitguru.s3.amazonaws.com/389/9.jpg",
+    "latitude": 3.3264,
+    "longitude": 101.6835
+  },
+
+  {
+    "id": 6,
+    "name": "Legoland Malaysia",
+    "state": "Johor",
+    "price": 199,
+    "category": "City",
+    "description": "Legoland Malaysia Resort is the first Legoland theme park in Asia, located in Iskandar Puteri, Johor. Spanning over 76 acres, it features more than 40 interactive rides, shows, and attractions across seven themed areas, including Miniland Asia where iconic regional landmarks are recreated with over 30 million Lego bricks. The resort also includes a water park with thrilling slides, a sea life aquarium, and the Legoland Hotel with themed rooms. It offers an imaginative and fun filled experience for families, children, and Lego enthusiasts of all ages.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTypW1aE70mWSxVNzW23pfIB5JEVIOsOM54Cg&s",
+    "latitude": 1.4333,
+    "longitude": 103.6311
+  },
+
+  {
+    "id": 7,
+    "name": "Sultan Abu Bakar Mosque",
+    "state": "Johor",
+    "price": 0,
+    "category": "Culture",
+    "description": "Sultan Abu Bakar Mosque is a grand state mosque perched atop a hill in Johor Bahru, completed in 1900. Designed by Tuan Haji Mohamed Arif bin Punak, it showcases a striking blend of Victorian, Moorish, and Malay architecture, with distinctive minarets resembling British 19th century clock towers. The mosque accommodates up to 2,000 worshippers and features intricate stained glass windows, elegant archways, and manicured gardens overlooking the Tebrau Strait. It remains an active place of worship and beloved landmark, drawing visitors who admire its historical grandeur and panoramic views of the Singapore skyline.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_FizRN6mAiGR78UcAV4kpsYUKi_O64Q7Jlw&s",
+    "latitude": 1.4569,  
+    "longitude": 103.75118
+  },
+
+  {
+    "id": 8,
+    "name": "Endau Rompin National Park",
+    "state": "Johor",
+    "price": 30,
+    "category": "Nature",
+    "description": "Endau Rompin National Park is one of Malaysia's oldest tropical rainforests, spanning over 870 square kilometres across Johor and Pahang. It is a UNESCO recognised heritage site teeming with rare flora and fauna, including the endangered Sumatran rhinoceros and Malayan tiger. Visitors can trek through ancient jungle trails, discover majestic waterfalls such as Buaya Sangkut, explore mysterious caves, and camp beneath a canopy of towering trees. The park offers an immersive eco adventure, making it a paradise for nature enthusiasts, wildlife photographers, and avid hikers seeking untouched wilderness",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReuOgdxwo2W3w_CLN5rMjnItgfC-b6YIOO_g&s",
+    "latitude": 2.494 ,
+    "longitude": 103.261
+  },
+
+  {
+    "id": 9,
+    "name": "Batu Caves",
+    "state": "Selangor",
+    "price": 0,
+    "category": "Culture",
+    "description": "Batu Caves is a magnificent limestone hill featuring a series of caves and cave temples in Gombak, Selangor. It serves as the focal point of the annual Thaipusam festival, attracting millions of devotees and tourists. The site is crowned by a towering 42.7 metre golden statue of Lord Murugan, the tallest of its kind in the world. Visitors must climb 272 vibrant rainbow coloured steps to reach the main Cathedral Cave, which houses ornate Hindu shrines beneath a soaring vaulted ceiling with natural skylights.",
+    "image": "https://images.unsplash.com/photo-1681814677030-72ab971ac45b?q=80&w=1046&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "latitude": 3.3264,
+    "longitude": 101.6835
+  },
+
+  {
+    "id": 10,
+    "name": "Morib Beach",
+    "state": "Selangor",
+    "price": 0,
+    "category": "Beach",
+    "description": "Morib Beach is a serene coastal destination located in Banting, Selangor, along the Straits of Malacca. Known for its calm waters and golden sandy shores, it is a favourite spot for family picnics, beachside camping, and sunset watching. Visitors can enjoy local seafood at nearby stalls, explore the historic Morib Gold Coast, or visit the iconic Morib Lighthouse. The beach also holds historical significance as one of the landing sites of Allied forces during World War Two, adding a layer of heritage to its natural charm.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7VC2gUceybXtcYOx9uKKxqJXBKOHsisykPA&s",
+    "latitude":  2.7495 , 
+    "longitude": 101.4426 
+  },
+
+  {
+    "id": 11,
+    "name": "Sunway Lagoon",
+    "state": "Selangor",
+    "price": 193.00,
+    "category": "City",
+    "description": "SunSunway Lagoon is Malaysia's premier multi park destination, spanning 88 acres in Bandar Sunway, Selangor. It features six thrilling zones: Water Park, Amusement Park, Wildlife Park, Extreme Park, Scream Park, and Nickelodeon Lost Lagoon. Visitors can enjoy over 90 rides and attractions, including the world's largest man made surf beach, Malaysia's first interactive zoo, and spine chilling haunted houses. With its diverse entertainment offerings, Sunway Lagoon promises an unforgettable adventure for families, thrill seekers, and nature lovers alike, all within a vibrant resort city setting.",
+    "image": "https://www.shutterstock.com/shutterstock/videos/1107560637/thumb/12.jpg?ip=x480",
+    "latitude":  3.07199 , 
+    "longitude": 101.60515 
+  },
+
+  {
+    "id": 12,
+    "name": "Skytrex Sungai Chongkak",
+    "state": "Selangor",
+    "price": "50-80",
+    "category": "Nature",
+    "description": "Skytrex Sungai Chongkak is an outdoor jungle adventure park located inside the Sungai Congkak forest in Hulu Langat, Selangor. It is one of Malaysia’s most popular treetop obstacle + flying fox experiences, where visitors move between trees using ropes, ladders, bridges, and ziplines. The park is surrounded by a lush tropical rainforest and river scenery, making it a mix of adventure and nature experience.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8PkZbGOpKePYXVDqv0N5qFVF58PUgFSH8ZXlPaU4B7A&s",
+    "latitude":  3.1664418, 
+    "longitude": 101.8580147
+  },
+
+  {
+    "id": 13,
+    "name": "Langkawi Sky Bridge",
+    "state": "Kedah",
+    "price": 48,
+    "category": "Nature",
+    "description": "Langkawi Sky Bridge is a breathtaking 125-metre curved pedestrian cable-stayed bridge perched at 660 metres above sea level on the peak of Gunung Mat Cincang in Langkawi, Kedah. Completed in 2005, it is one of the world's longest curved suspension bridges, offering magnificent panoramic views of lush rainforests, the Andaman Sea, surrounding islands, and even neighbouring Thailand. Accessible via the iconic Langkawi Cable Car and SkyGlide, it is a truly unforgettable engineering marvel and a must-visit attraction.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzl9-283pB3kqaO0_CoUBKq9X60c6pqI3pRA&s",
+    "latitude": 6.0931,
+    "longitude": 99.6719
+  },
+
+  {
+    "id": 14,
+    "name": "Dayang Bunting Island",
+    "state": "Kedah",
+    "price": 10,
+    "category": "Nature",
+    "description": "Dayang Bunting Island, meaning Isle of the Pregnant Maiden, is the second largest island in the Langkawi archipelago in Kedah. Steeped in enchanting local folklore, it is home to the mystical Tasik Dayang Bunting, a freshwater lake believed to grant fertility to women who bathe in its waters. Visitors can enjoy jungle trekking, kayaking, swimming, birdwatching, and exploring stunning limestone caves within the Dayang Bunting Marble Geoforest Park, accessible via a scenic 15-minute boat ride from Kuah Jetty.",
+    "image": "https://assets.nst.com.my/images/articles/dayang_bunting_1708924474.jpg",
+    "latitude": 6.244018817123062,
+    "longitude": 99.81092266510088
+  },
+
+  {
+    "id": 15,
+    "name": "Langkawi Cable Car",
+    "state": "Kedah",
+    "price": 90,
+    "category": "",
+    "description": "Langkawi Cable Car, also known as SkyCab, is one of the steepest gondola cable car rides in the world, soaring 708 metres above sea level along the ancient 550-million-year-old rock formations of Gunung Machinchang in Langkawi, Kedah. Officially opened in 2003, this iconic 2.2-kilometre aerial journey connects Oriental Village at the base to the mountain summit, offering breathtaking panoramic views of the Andaman Sea, surrounding islands, lush rainforests, and on clear days, even the coastline of southern Thailand.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUehY9Fo9ol8vDPXdbIP2mV9Ye9U4_yiRtEg&s",
+    "latitude": 6.371090584016473, 
+    "longitude": 99.67168199649765
+  },
+  
+  {
+    "id": 16,
+    "name": "Mahsuri's Tomb",
+    "state": "Kedah",
+    "price": 15,
+    "category": "Culture",
+    "description": "Mahsuri's Tomb, known as Makam Mahsuri, is a sacred historical site located in Langkawi, Kedah, dedicated to the legendary Mahsuri, a beautiful young woman wrongfully accused of adultery and executed in the late 18th century. As she died, she cursed Langkawi with seven generations of misfortune. The white marble tomb is set within beautifully landscaped gardens and a cultural complex featuring a museum, traditional Malay village, batik workshops, cultural performances, and artifacts that celebrate Langkawi's rich folklore and heritage.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhrkavvU4JQC48AKyymogyFivzY5GwsDf7nw&s",
+    "latitude": 6.339266248112564, 
+    "longitude": 99.78410165832604
+  },
+
+  {
+    "id": 17,
+    "name": "Haji Ismail Group",
+    "state": "Kedah",
+    "price": 0,
+    "category": "City",
+    "description": "Haji Ismail Group, also known as HIG, is a popular Bumiputera-owned duty-free shopping complex located in Kuah Town, Langkawi, Kedah. Established in 2009, it is widely celebrated as a premier chocolate and souvenir destination, offering an extensive selection of global chocolate brands, local handicrafts, traditional textiles, batik clothing, and unique Malaysian souvenirs at tax-free prices. Attracting both locals and tourists alike, HIG provides a vibrant and culturally rich shopping experience that perfectly captures the spirit of Langkawi's bustling commercial scene.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2WNCGUkQS9cPMDXeuGC2aZtTPurTGbLwwH1nilL0ankQlAGhvJ5MDbcDThHOnnc5OPC7ergxyyrJWrjB6iMMmamMTvGWrAbxw5sOVrTlRc0dW6AqvWYYMXKxRCfcWvm2dm6nbfLxJb1M0/s1600/IMG_2637.JPG",
+    "latitude": 6.324512428867844, 
+    "longitude": 99.8497287899976
+  },
+
+  {
+    "id": 18,
+    "name": "Telaga Tujuh Waterfall",
+    "state": "Kedah",
+    "price": 5,
+    "category": "Nature",
+    "description": "Telaga Tujuh Waterfall, also known as Seven Wells Waterfall, is a breathtaking natural gem nestled within the Machinchang Cambrian Geoforest Park in Langkawi, Kedah. Named after seven enchanting freshwater pools formed by cascading streams flowing down Mount Mat Cincang, this magnificent 91-metre waterfall is steeped in local folklore, where legends say fairies once bathed in its mystical healing waters. Visitors can climb 638 steps through lush tropical rainforest, swim in refreshing natural pools, and enjoy thrilling natural waterslides amid rich biodiversity",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThkAkkbg5wpsxqUIQJHIbbbIn_graKJZu0KA&s",
+    "latitude": 6.383087366397027, 
+    "longitude": 99.67411505889109
+  },
+  
+ {
+    "id": 36,
+    "name": "Kinabatangan River",
+    "state": "Sabah",
+    "price":0,
+    "category": "Nature",
+    "description": "Located in eastern Sabah, the Kinabatangan River is the second longest river in Malaysia and one of the richest wildlife habitats in Southeast Asia. The river winds through lush rainforests, limestone caves, and swampy wetlands, creating a diverse ecosystem that attracts nature lovers from around the world. Visitors can explore the area through river cruises, offering a peaceful yet exciting way to experience the surrounding wilderness.\n\nThe Kinabatangan is especially known for its incredible biodiversity, including rare and endangered species such as the Bornean pygmy elephant, orangutan, and proboscis monkey. It is one of the few places in the world where you can spot so many iconic animals in their natural habitat within a single trip, making it a top destination for eco-tourism and wildlife photography.",
+    "image": "https://images.pexels.com/photos/1009683/pexels-photo-1009683.jpeg",
+    "latitude": 5.6261,
+    "longitude": 118.5726
+  },
+  {
+    "id": 37,
+    "name": "Kota Belud",
+    "state": "Sabah",
+    "price": 0,
+    "category": "City",
+    "description": "Kota Belud is a charming town located on the west coast of Sabah, Malaysia, about an hour’s drive from Kota Kinabalu. It is often called the “Rice Bowl of Sabah” due to its vast green paddy fields that stretch across the landscape, creating a peaceful rural setting. The area is rich in cultural heritage, particularly of the Bajau people—often known as the “Cowboys of the East” because of their traditional skills in horse riding. Visitors can experience a strong sense of community here, especially during the famous Tamu Besar Kota Belud, a lively open-air market and festival where locals gather to trade goods, showcase traditional clothing, perform dances, and celebrate their culture.\n\n Kota Belud is famous for its scenic beauty and diverse attractions. Nature lovers can explore nearby beaches, rivers, and the foothills of Mount Kinabalu, making it a great spot for outdoor activities like hiking, birdwatching, and photography. One of the best things to do is to visit during the Tamu (weekly market) day, where you can find local food, handicrafts, and fresh produce while experiencing authentic Sabahan life. Adventure seekers may also enjoy eco-tourism activities such as river rafting or visiting traditional villages. Overall, Kota Belud offers a relaxing yet culturally rich experience, making it a unique destination in Sabah.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/KotaBelud_Sabah_-TownView-01.jpg",
+    "latitude": 6.3552,
+    "longitude": 116.4311
+  },
+  {
+    "id": 38,
+    "name": "Mount Kinabalu",
+    "state": "Sabah",
+    "price": 200,
+    "category": "Nature",
+    "description": "Rising majestically in Sabah, Mount Kinabalu is the highest peak in Malaysia, standing at 4,095 meters above sea level. Located within Kinabalu Park, a UNESCO World Heritage Site, the mountain is a popular destination for hikers and nature lovers. Its well-maintained trails and breathtaking views make it one of the most accessible high mountains in Southeast Asia, attracting climbers from all over the world.\n\nMount Kinabalu is especially known for its incredible biodiversity, with thousands of plant species, including rare orchids and the famous Rafflesia, the world's largest flower. The mountain also holds cultural significance for the local Kadazan-Dusun community, who regard it as a sacred place. Reaching the summit at sunrise, known as Low's Peak, is a highlight for many visitors, offering stunning panoramic views above the clouds.",
+    "image": "https://images.pexels.com/photos/15874782/pexels-photo-15874782.jpeg",
+    "latitude": 6.0751,
+    "longitude": 116.5413
+  },
+  {
+    "id": 39,
+    "name": "Mantanani Island",
+    "state": "Sabah",
+    "price":  230,
+    "category": "Beach",
+    "description": "Located off the northwest coast of Sabah near Kota Belud, Mantanani Island is a hidden tropical paradise known for its crystal-clear waters and white sandy beaches. The island offers a peaceful escape from the busy city, making it a perfect destination for relaxation, island hopping, and seaside activities. Visitors can enjoy snorkeling, diving, and sunset views over the South China Sea.\n\nMantanani Island is especially famous for its rich marine life, including vibrant coral reefs, sea turtles, and occasional sightings of dugongs, a rare and endangered marine mammal. Its calm waters and untouched beauty make it one of Sabah's best-kept secrets, ideal for both nature lovers and those seeking a quiet island retreat.",
+    "image": "https://images.pexels.com/photos/33263918/pexels-photo-33263918.jpeg",
+    "latitude": 6.7170,
+    "longitude": 116.3420
+  },
+  {
+    "id": 40,
+    "name": "Mabul Island",
+    "state": "Sabah",
+    "price": 170,
+    "category": "Beach",
+    "description": "Mabul Island, located off the southeastern coast of Sabah near Semporna, is a small yet stunning tropical island surrounded by clear turquoise waters and soft sandy beaches. Originally a quiet fishing village, it has transformed into a popular destination for travelers seeking both relaxation and marine adventure. The island offers a laid-back atmosphere, with overwater chalets and scenic views that make it ideal for a peaceful getaway.\n\nMabul Island is especially renowned as one of the world's top “muck diving” sites, attracting divers from around the globe. Its waters are rich with unique and rare marine species such as nudibranchs, frogfish, and blue-ringed octopuses. Located close to the famous Sipadan Island, Mabul serves as a convenient base for diving enthusiasts, making it a must-visit spot for underwater exploration",
+    "image": "https://images.unsplash.com/photo-1671364978178-002a8dc97362?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "latitude": 4.2447,
+    "longitude": 118.6289
+  },
+  {
+    "id": 41,
+    "name": "Tanjung Aru Beach",
+    "state": "Sabah",
+    "price": 0,
+    "category": "Beach",
+    "description": "Tanjung Aru Beach, located just minutes from Kota Kinabalu, is one of the most popular and accessible beaches in Sabah. Known for its long stretch of soft sand and swaying palm trees, it is a favorite spot for both locals and tourists to relax, enjoy seaside activities, and take in the coastal scenery. The beach is also lined with food stalls and night markets, offering a taste of local street food and culture.\n\nTanjung Aru Beach is especially famous for its breathtaking sunsets, often regarded as some of the best in Malaysia. As the sun dips below the horizon, the sky transforms into vibrant shades of orange, pink, and purple, creating a stunning view over the South China Sea. This makes it a perfect spot for evening strolls, photography, and a memorable end to the day.",
+    "image": "https://images.unsplash.com/photo-1729138094074-f9718c36ea9d?q=80&w=773&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "latitude": 5.9576,
+    "longitude": 116.0480
+  },
+  {
+    "id": 42,
+    "name": "Manukan Island",
+    "state": "Sabah",
+    "price": 35,
+    "category": "Beach",
+    "description": "Manukan Island, located within the Tunku Abdul Rahman Marine Park off the coast of Kota Kinabalu, is one of Sabah’s most popular island getaways. Surrounded by clear blue waters and fringed with soft sandy beaches, the island offers a perfect setting for relaxation, swimming, and water activities. Well-developed facilities such as chalets, restaurants, and walking trails make it a convenient and enjoyable destination for day trips or short stays.\n\nManukan Island is especially known for its vibrant marine life and crystal-clear waters, making it a top spot for snorkeling and diving. Visitors can easily spot colorful coral reefs and a variety of tropical fish just a short distance from the shore. Its combination of natural beauty and accessibility makes it one of the most visited islands in Sabah",
+    "image": "https://images.pexels.com/photos/8605374/pexels-photo-8605374.jpeg",
+    "latitude": 5.96667,
+    "longitude": 116.00000
+  },
+  {
+    "id": 43,
+    "name": "Sipadan Island",
+    "state": "Sabah",
+    "price": 150,
+    "category": "Beach",
+    "description": "Sipadan Island, located off the east coast of Sabah, is one of Malaysia’s most famous and protected marine destinations. Rising from the deep blue waters of the Celebes Sea, the island is the tip of an ancient underwater volcano, surrounded by some of the richest marine habitats in the world. Due to its protected status, visitor numbers are limited, helping to preserve its pristine environment and natural beauty.\n\nSipadan Island is especially renowned as one of the top diving sites globally, attracting divers from around the world. Its waters are home to an incredible diversity of marine life, including sea turtles, reef sharks, barracudas, and large schools of fish. The famous “barracuda tornado” and frequent turtle sightings make it a truly unforgettable underwater experience, earning Sipadan a reputation as a must-visit destination for diving enthusiasts",
+    "image": "https://images.pexels.com/photos/5444429/pexels-photo-5444429.jpeg",
+    "latitude": 4.1146,
+    "longitude": 118.6290
+  },
+  {
+    "id": 44,
+    "name": "Kota Kinabalu City",
+    "state": "Sabah",
+    "price": 0,
+    "category": "City",
+    "description": "Kota Kinabalu City, the capital of Sabah, is a vibrant coastal city that blends modern development with rich cultural heritage. Located along the South China Sea, the city offers a mix of shopping malls, waterfront attractions, local markets, and nearby natural escapes. It serves as the main gateway to Sabah’s top destinations, making it a convenient base for travelers exploring the region.\n\nKota Kinabalu is especially known for its stunning sunsets, lively night markets, and fresh seafood. Visitors can enjoy panoramic sea views from the waterfront, experience local culture at places like Gaya Street, and easily access nearby islands and national parks. Its relaxed atmosphere combined with urban convenience makes it one of the most appealing cities in East Malaysia.",
+    "image": "https://www.agoda.com/wp-content/uploads/2024/08/kota-kinabalu-malaysia-featured-1.jpg",
+    "latitude": 5.9804,
+    "longitude": 116.0735
+  },
+  {
+    "id": 46,
+    "name": "Mari Mari Cultural Village",
+    "state": "Sabah",
+    "price": 125,
+    "category": "Culture",
+    "description": "Mari Mari Cultural Village, located near Kota Kinabalu, offers visitors an immersive experience into the traditional lifestyles of Sabah’s diverse indigenous communities. Surrounded by lush forest, the village showcases the unique cultures of ethnic groups such as the Kadazan-Dusun, Bajau, Murut, Rungus, and Lundayeh. Visitors can explore traditional houses, watch cultural demonstrations, and learn about age-old customs and survival skills.\n\nMari Mari Cultural Village is especially known for its interactive cultural experiences, including traditional dances, blowpipe demonstrations, and local food tasting. It provides a deeper understanding of Sabah’s rich heritage while preserving and showcasing authentic traditions. This makes it a popular destination for those interested in culture, history, and meaningful travel experiences.",
+    "image": "https://images.unsplash.com/photo-1768701162184-d0cd105e18de?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "latitude": 5.9939,
+    "longitude": 116.2200
+  },
+  {
+    "id": 47,
+    "name": "Bajau Water Villages",
+    "state": "Sabah",
+    "price": 20,
+    "category": "Culture",
+    "description": "Bajau Water Villages, found along the coasts of Sabah, are unique settlements built entirely above the sea. These stilt houses are home to the Bajau Laut community, who have lived in harmony with the ocean for generations. The villages offer visitors a glimpse into a traditional way of life, with wooden walkways connecting homes and boats serving as a primary mode of transport.\n\nThe Bajau people are especially known as the “Sea Nomads” due to their deep connection with the ocean and exceptional seafaring skills. Many are skilled divers, capable of free diving to impressive depths without modern equipment. This fascinating lifestyle, combined with the scenic coastal setting, makes the Bajau Water Villages one of the most culturally unique attractions in Sabah.",
+    "image": "https://images.pexels.com/photos/35481687/pexels-photo-35481687.jpeg",
+    "latitude": 4.2461,
+    "longitude": 118.6308
+  },
+  {
+    "id": 48,
+    "name": "Gunung Mulu National Park",
+    "state": "Sarawak",
+    "price": 30,
+    "category": "Nature",
+    "description": "Gunung Mulu National Park, located in Sarawak on the island of Borneo, is a UNESCO World Heritage Site renowned for its remarkable natural features and rich biodiversity. The park is covered by dense rainforest, limestone karst formations, and an extensive network of caves, making it one of the most unique natural attractions in Malaysia. Visitors can explore its beauty through jungle trekking, canopy walks, and guided cave expeditions.\n\nGunung Mulu National Park is especially famous for its विशाल cave systems, including Deer Cave, one of the largest cave passages in the world, and Sarawak Chamber, the largest known cave chamber by volume. The park is also home to millions of bats that create a spectacular evening exodus from the caves. Its combination of geological wonders and diverse ecosystems makes it a top destination for adventure seekers and nature enthusiasts.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRjHRSWqWSxcarszQt600Y6zObIpcspIwrbQ&s",
+    "latitude": 3.9347,
+    "longitude": 114.7907
+  },
+  {
+    "id": 45,
+    "name": "Semenggoh Nature Reserve",
+    "state": "Sarawak",
+    "price": 10,
+    "category": "Nature",
+    "description": "Semenggoh Nature Reserve, located near Kuching in Sarawak, is a protected forest reserve dedicated to the rehabilitation and conservation of orangutans. Surrounded by lush rainforest, the reserve provides a natural habitat for semi-wild orangutans that have been rescued or orphaned. Visitors can explore the area through walking trails while enjoying the rich biodiversity of the forest.\n\nSemenggoh Nature Reserve is especially known for its orangutan feeding sessions, where visitors can observe these endangered animals up close in their natural environment. The reserve plays an important role in wildlife conservation and education, giving people a rare opportunity to witness one of Borneo's most iconic species while promoting awareness of their protection.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzW7bd5ud4RarSX-JN_DGVSKFeORLxJ6VNGQ&s",
+    "latitude": 1.4623,
+    "longitude": 110.1839
+  },
+  {
+    "id": 19,
+    "name": "Bako National Park",
+    "state": "Sarawak",
+    "price": 20,
+    "category": "Nature",
+    "description": "Bako National Park, located on a peninsula near Kuching in Sarawak, is one of the oldest and most accessible national parks in Malaysia. Despite its relatively small size, the park features a wide variety of ecosystems, including rainforest, mangroves, and coastal cliffs. Visitors can explore numerous well-marked trails that lead to secluded beaches, waterfalls, and unique rock formations shaped by erosion.\n\nBako National Park is especially known for its wildlife, including the iconic proboscis monkey, which is native to Borneo and a major highlight for visitors. The park is also home to other animals such as wild boars, monitor lizards, and a wide range of bird species. Its combination of diverse habitats and rich biodiversity makes it a must-visit destination for nature lovers and wildlife enthusiasts.",
+    "image": "https://bakonationalpark.com/tours/bako-national-park-day-tour/images/featured.jpg",
+    "latitude": 1.7167,
+    "longitude": 110.3333
+  },
+  {
+    "id": 20,
+    "name": "Niah National Park",
+    "state": "Sarawak",
+    "price": 10,
+    "category": "Nature",
+    "description": "Niah National Park, located in northern Sarawak, is one of Malaysia’s most important archaeological and natural heritage sites. The park is known for its vast limestone caves, dense rainforest, and wooden walkways that guide visitors through scenic landscapes. It offers a unique combination of history and nature, making it a fascinating destination for both exploration and learning.\n\nNiah National Park is especially famous for the Niah Caves, where some of the oldest human remains in Southeast Asia were discovered, dating back around 40,000 years. The caves are also home to swiftlets and bats, and visitors can witness traditional bird’s nest harvesting practices. This blend of ancient history, cultural significance, and natural beauty makes the park a truly remarkable attraction in Sarawak.",
+    "image": "https://images.pexels.com/photos/14277724/pexels-photo-14277724.jpeg",
+    "latitude": 3.8500,
+    "longitude": 113.0500
+  },
+  {
+    "id": 21,
+    "name": "Damai Beach",
+    "state": "Sarawak",
+    "price": 3,
+    "category": "Beach",
+    "description": "Damai Beach, located about 30 kilometers from Kuching in Sarawak, is a peaceful coastal destination known for its scenic beauty and relaxing atmosphere. Surrounded by lush rainforest and overlooking the South China Sea, the beach offers a perfect escape from the city. Visitors can enjoy activities such as swimming, beach walks, and exploring nearby cultural attractions, including the Sarawak Cultural Village.\n\nDamai Beach is especially known for its stunning views of Mount Santubong, which rises majestically in the background and adds to the area’s natural charm. The beach is also popular for its tranquil setting and beautiful sunsets, making it an ideal spot for relaxation and photography. Its combination of nature, culture, and serenity makes Damai Beach a favorite getaway in Sarawak.",
+    "image": "https://images.pexels.com/photos/14951897/pexels-photo-14951897.jpeg",
+    "latitude": 1.7494,
+    "longitude": 110.3081
+  },
+  {
+    "id": 22,
+    "name": "Tanjung Datu Beach",
+    "state": "Sarawak",
+    "price": 20,
+    "category": "Beach",
+    "description": "Tanjung Datu Beach, located within Tanjung Datu National Park in Sarawak, is one of the most secluded and pristine beaches in Malaysia. Nestled at the westernmost tip of Borneo, near the border with Indonesia, the beach is surrounded by untouched rainforest and clear turquoise waters. Its remote location makes it an ideal destination for those seeking solitude, nature, and an unspoiled coastal environment.\n\nTanjung Datu Beach is especially known for its rich biodiversity and conservation efforts. The area serves as a nesting ground for sea turtles, and visitors may witness conservation activities aimed at protecting these endangered species. With minimal human development and breathtaking natural scenery, it remains one of the best-kept secrets in Sarawak, perfect for eco-tourism and peaceful retreats.",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/66/b5/ff/caption.jpg?w=1200&h=-1&s=1",
+    "latitude": 2.0333,
+    "longitude": 109.6417
+  },
+  {
+    "id": 23,
+    "name": "Talang-Talang Islands",
+    "state": "Sarawak",
+    "price": 20,
+    "category": "Beach",
+    "description": "Talang-Talang Islands, located off the coast of Sematan in Sarawak, are a group of small, protected islands known for their untouched natural beauty and conservation efforts. Surrounded by clear waters and coral reefs, the islands are part of a marine national park and are carefully managed to preserve their delicate ecosystems. Access is limited, making the area peaceful and less crowded compared to other coastal destinations.\n\nThe Talang-Talang Islands are especially famous as one of the most important sea turtle nesting sites in Sarawak. Several species of turtles, including green turtles and hawksbill turtles, come ashore to lay their eggs, and conservation programs help protect these endangered animals. This unique role in marine conservation makes the islands a significant destination for eco-tourism and wildlife enthusiasts.",
+    "image": "https://images.pexels.com/photos/11246989/pexels-photo-11246989.jpeg",
+    "latitude": 1.7833,
+    "longitude": 110.1667
+  },
+  {
+    "id": 24,
+    "name": "Kuching City",
+    "state": "Sarawak",
+    "price": 0,
+    "category": "City",
+    "description": "Kuching City, the capital of Sarawak, is a charming riverside city known for its rich history, cultural diversity, and relaxed atmosphere. Situated along the Sarawak River, the city features a blend of colonial architecture, modern developments, and traditional markets. Visitors can explore attractions such as the Kuching Waterfront, museums, temples, and lively streets filled with local food and crafts.\n\nKuching City is especially known as the “Cat City,” with cat statues and themes found throughout the city, reflecting its unique identity. It is also a gateway to many of Sarawak's natural attractions, including national parks and wildlife reserves. With its mix of culture, history, and accessibility, Kuching offers a welcoming and memorable experience for travelers.",
+    "image": "https://images.pexels.com/photos/4614386/pexels-photo-4614386.jpeg",
+    "latitude": 1.5533,
+    "longitude": 110.3592
+  },
+  {
+    "id": 25,
+    "name": "Sarawak State Legislative Assembly",
+    "state": "Sarawak",
+    "price": 0,
+    "category": "City",
+    "description": "Rising along the Sarawak River with its distinctive golden roof, this architectural landmark serves as the seat of the Sarawak state government. Its bold, umbrella-inspired design blends modern structure with cultural symbolism, making it one of the most recognizable buildings in Kuching and a key part of the city’s identity.\n\nKnown for its striking riverside presence, it is best viewed from the Kuching Waterfront, especially during sunset or at night when it is beautifully illuminated. The building stands as both a political center and a visual icon, attracting visitors for its design, scenic backdrop, and significance in Sarawak's governance.",
+    "image": "https://images.pexels.com/photos/19349497/pexels-photo-19349497.jpeg",
+    "latitude": 1.5590,
+    "longitude": 110.3540
+  },
+  {
+    "id": 26,
+    "name": "Iban Longhouses",
+    "state": "Sarawak",
+    "price": 10,
+    "category": "Culture",
+    "description": "Found deep within the rainforests of Sarawak, these traditional communal homes are built on stilts and house multiple families under a single roof. Each longhouse reflects the rich heritage and social structure of the Iban people, featuring a shared veranda for gatherings and individual living spaces for families. It offers a unique glimpse into a way of life that remains closely connected to nature and community.\n\nKnown for its strong cultural traditions, the longhouse is central to Iban identity, especially during festivals such as Gawai Dayak. Visitors can experience traditional music, dance, handicrafts, and hospitality that have been passed down through generations. This living heritage makes it one of the most authentic and meaningful cultural experiences in Sarawak.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbmeNI_3YvlXG3mJfHeHYObecQckrtpysGnA&s",
+    "latitude": 1.5590,
+    "longitude": 110.3540
+  },
+  {
+    "id": 27,
+    "name": "Tua Pek Kong Temple",
+    "state": "Sarawak",
+    "price": 0,
+    "category": "Culture",
+    "description": "Located along the Kuching Waterfront, this historic temple stands as one of the oldest Chinese temples in Sarawak, dating back to the 18th century. Built in honor of Tua Pek Kong, a revered deity believed to bring prosperity and protection, the temple features traditional Chinese architecture with ornate carvings, curved roofs, and vibrant colors that reflect its cultural roots.\n\nKnown as an important spiritual and cultural landmark, it attracts both worshippers and visitors seeking a glimpse into Kuching’s heritage. The temple is especially lively during festivals and celebrations, while its riverside setting offers a scenic contrast between history and modern city life, making it a meaningful stop in the heart of Kuching.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjPs_tRrsr0OrIlrPZFb01HZ-w35TQX8ws-g&s",
+    "latitude": 5.4638,
+    "longitude": 100.3078
+  },
+  {
+    "id": 28,
+    "name": "Sarawak Cultural Village",
+    "state": "Sarawak",
+    "price": 95,
+    "category": "Culture",
+    "description": "Set at the foot of Mount Santubong near Kuching, this living museum offers an immersive introduction to the diverse cultures of Sarawak. Traditional houses representing major ethnic groups are carefully recreated, allowing visitors to explore their architecture, daily life, and customs in one place. Cultural demonstrations and guided experiences make it easy for tourists to understand the state’s rich heritage in a short visit.\n\nKnown for its interactive approach, it features traditional dances, music performances, and local food tasting that bring the culture to life. Visitors can try activities such as blowpipe shooting or learning traditional crafts, making the experience both educational and memorable. It is one of the best places in Sarawak to gain a complete cultural overview in a single, convenient location.",
+    "image": "https://travelwithlens.com/wp-content/uploads/2024/01/cultural-village-2s.jpeg",
+    "latitude": 1.7483,
+    "longitude": 110.3175
+  },
+  {
+    "id": 29,
+    "name": "Perlis State Park",
+    "state": "Perlis",
+    "price": 0,
+    "category": "Nature",
+    "description": "Located in the far north of Peninsular Malaysia near the Thailand border, this protected rainforest area offers one of the most untouched natural experiences in the country. Covered with dense jungle, limestone hills, and diverse plant life, it is a great destination for tourists looking to explore nature through trekking, wildlife spotting, and scenic viewpoints.\n\nKnown for its rich biodiversity, it is home to rare species such as hornbills, leaf monkeys, and unique forest flora. The park also features hiking trails leading to panoramic views and caves, making it ideal for outdoor enthusiasts. Its peaceful environment and relatively low number of visitors make it perfect for those seeking a quiet and authentic rainforest adventure.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn5kW05TZ8QqCXNFZKT55eDaPp36e6nm8lgw&s",
+    "latitude": 6.6667,
+    "longitude": 100.1833
+  },
+  {
+    "id": 30,
+    "name": "Gua Kelam",
+    "state": "Perlis",
+    "price": 5,
+    "category": "Nature",
+    "description": "Hidden within the limestone hills of Perlis, this unique cave offers an adventurous and scenic journey through one of the longest limestone caves in Malaysia. Visitors can walk along a well-lit pathway that stretches through the cave, passing rock formations, underground streams, and cool, shaded interiors that provide a refreshing escape from the heat.\n\nKnown for its easy accessibility and guided walkway, it is suitable for tourists of all ages looking for a light adventure. The cave also serves as a gateway to nearby forest trails and viewpoints, making it a great stop for nature exploration. Its blend of natural beauty and convenience makes it one of the highlights when visiting Perlis.",
+    "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=80,format=auto,fit=scale-down,dpr=1,width=800,height=500,sharpen=1/https://media.freemalaysiatoday.com/wp-content/uploads/2018/11/gua-kelam-1.jpg",
+    "latitude": 6.6258,
+    "longitude": 100.2045
+  },
+  {
+    "id": 31,
+    "name": "Kangar Town",
+    "state": "Perlis",
+    "price": 0,
+    "category": "City",
+    "description": "Serving as the capital of Perlis, this small and peaceful town offers a relaxed atmosphere with easy access to the state’s main attractions. Surrounded by paddy fields and local villages, it gives visitors a glimpse of authentic northern Malaysian life while still providing essential facilities, markets, and dining options.\n\nKnown for its simplicity and charm, it is often used as a convenient base for exploring nearby destinations such as Gua Kelam and Perlis State Park. Visitors can enjoy local food, quiet streets, and a slower pace of travel, making it ideal for those looking to experience a less crowded and more laid-back side of Malaysia.",
+    "image": "https://images.unsplash.com/photo-1639007628124-3e8b10731a04?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "latitude": 6.4419,
+    "longitude": 100.1986
+  },
+  {
+    "id": 32,
+    "name": "Chuping Sugar Cane Museum",
+    "state": "Perlis",
+    "price": 10,
+    "category": "Culture",
+    "description": "Located in the rural area of Chuping in Perlis, this unique museum highlights the history and development of the sugar cane industry in Malaysia. Set against a backdrop of vast plantations and limestone hills, it offers visitors insight into how sugar cane was cultivated, processed, and contributed to the local economy.\n\nKnown for its educational displays and nostalgic value, the museum allows tourists to learn about traditional farming techniques and the region’s agricultural heritage. The surrounding open landscape also provides a scenic and peaceful environment, making it a worthwhile stop for those exploring the lesser-known attractions of Perlis.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlVtli7t_5ITNiIjQzhn67nRghI2eeF9TMzKht13WVllUBiWTqhWiqm3YQchhweqwF3jVw_0QrF2aox2gum6LPSXXogbHi4BlUx_sW58vmb1N00hn0-WdwPbvDqKcu9BK67-laqdh71zag/s1600/tebu.jpg",
+    "latitude": 6.5180,
+    "longitude": 100.2360
+  },
+  {
+    "id": 33,
+    "name": "Kayang Museum",
+    "state": "Perlis",
+    "price": 5,
+    "category": "Culture",
+    "description": "Housed in a restored traditional Malay house in Kangar, this museum offers a glimpse into the royal history and cultural heritage of Perlis. The building itself reflects classic Malay architecture, providing visitors with an authentic setting to explore exhibits related to local traditions, artifacts, and the state’s royal lineage.\n\nKnown for its quiet and educational atmosphere, it is an ideal stop for tourists interested in history and culture. Visitors can learn about the state's past while enjoying the preserved structure and surrounding greenery, making it a simple yet meaningful attraction in Perlis.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE0uGUZNoe9NqkxzDf2oFJk4JDQVxgpgNeZQ&s",
+    "latitude": 6.3910,
+    "longitude": 100.1280
+  },
+  {
+    "id": 34,
+    "name": "Perlis State Mosque",
+    "state": "Perlis",
+    "price": 0,
+    "category": "Culture",
+    "description": "Located in the capital of Perlis, this grand mosque stands as the main place of worship in the state, featuring a modern design with elegant domes and spacious prayer halls. Its clean architecture and peaceful surroundings create a welcoming environment for both locals and visitors exploring Kangar.\n\nKnown for its size and importance, it serves as a central religious landmark and is often visited for its calm atmosphere and impressive structure. Tourists can appreciate its design, observe local practices, and include it as a meaningful cultural stop while exploring the area.",
+    "image": "https://www.holidaygogogo.com/wp-content/uploads/2011/11/Perlis-Royal-Mosque.jpg",
+    "latitude": 6.4406,
+    "longitude": 100.1983
+  },
+  {
+    "id": 35,
+    "name": "Timah Tasoh Lake",
+    "state": "Perlis",
+    "price": 0,
+    "category": "Nature",
+    "description": "Surrounded by limestone hills and greenery in Perlis, this scenic lake is a peaceful destination known for its calm waters and natural beauty. Originally created as a reservoir, it has become a popular spot for relaxation, sightseeing, and outdoor activities such as picnicking and light exploration.\n\nKnown for its tranquil atmosphere, it is ideal for tourists looking to enjoy quiet scenery away from crowded attractions. The lake also serves as a starting point for nearby hiking routes, offering elevated views of the surrounding landscape. Its calm setting and scenic backdrop make it a refreshing stop in northern Malaysia.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfz7lcMFIj-yP_ZzDG7Ly9w2JVpyYEzgD6qA&s",
+    "latitude": 6.5750,
+    "longitude": 100.2400
+  },
+
+  {
+    "id": 49,
+    "name": "Clan Jetties of Penang",
+    "state": "Penang",
+    "price": 0,
+    "category": "City",
+    "description": "The Clan Jetties of Penang are historic waterfront settlements built on stilts over the sea, located along Weld Quay in George Town. These unique villages were established in the late 19th century by Chinese immigrants who belonged to different clans, with each jetty named after a family name such as Chew, Tan, Lee, and Yeoh. Visitors can wander through wooden walkways lined with traditional stilt houses, colourful temples, and quaint souvenir shops while experiencing the authentic lifestyle of the local community. The jetties offer stunning sunset views, fresh seafood, and a glimpse into Penang's rich maritime heritage, making them a captivating cultural attraction within the UNESCO World Heritage Site.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Lim_Jetty_in_George_Town%2C_Penang.jpg/1280px-Lim_Jetty_in_George_Town%2C_Penang.jpg",
+    "latitude": 5.412836740817912,
+    "longitude":  100.33965485351375
+  },
+  
+  {
+    "id": 50,
+    "name": "Kek Lok Si Temple",
+    "state": "Penang",
+    "price": 0,
+    "category": "Culture",
+    "description": "Kek Lok Si Temple is the largest Buddhist temple in Malaysia, majestically perched on a hillside in Air Itam, Penang. This magnificent complex features ornate pagodas, grand prayer halls, beautiful gardens, and thousands of intricate statues spread across multiple terraced levels. The temple's crowning glory is the towering seven storey Pagoda of Ten Thousand Buddhas, blending Chinese, Thai, and Burmese architectural styles. Visitors can admire the striking bronze statue of the Goddess of Mercy, explore tranquil courtyards, and enjoy panoramic views of George Town. The temple is especially enchanting during Chinese New Year when thousands of lanterns illuminate the entire hillside in a spectacular display of light and colour.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCwHlSAzneQW1CYIxyzuxFC56WKr91gmEepA&s",
+    "latitude": 5.399646892203431, 
+    "longitude": 100.27361353762612
+  },
+
+  {
+    "id": 51,
+    "name": "Penang Hill",
+    "state": "Penang",
+    "price": 12,
+    "category": "Nature",
+    "description": "Penang Hill is a historic hill resort standing at 833 metres above sea level, offering panoramic views of George Town and the Strait of Malacca. Visitors ascend via the iconic funicular railway, one of the steepest in the world, to reach a cool retreat filled with colonial bungalows, lush gardens, and walking trails. The summit features The Habitat, an eco park with a canopy walk and nature trails through ancient rainforest. Attractions include the SkyDeck observation platform, Owl Museum, and charming cafes. Its refreshing climate, rich biodiversity, and stunning vistas make it a must visit destination for nature lovers and photographers alike.",
+    "image": "https://www.awaygowe.com/wp-content/uploads/2019/11/malaysia-penang-hill-oct19-03.jpg",
+    "latitude": 5.408776684581052, 
+    "longitude": 100.27704800302608
+  },
+
+  {
+    "id": 52,
+    "name": "Batu Ferringhi Beach",
+    "state": "Penang",
+    "price": 0,
+    "category": "Beach",
+    "description": "Batu Ferringhi Beach is a stunning coastal stretch along the northern shores of Penang Island, renowned for its golden sands, clear turquoise waters, and vibrant beachfront atmosphere. This popular tourist destination offers a wide range of water sports including jet skiing, parasailing, and banana boat rides, alongside luxurious beachfront resorts and lively night markets. Visitors can enjoy breathtaking sunsets, fresh seafood at seaside restaurants, and relaxing strolls along the palm fringed shoreline. The beach combines natural beauty with modern amenities, making it an ideal getaway for families, couples, and adventure enthusiasts seeking both relaxation and excitement by the sea.",
+    "image": "https://cdn.forevervacation.com/uploads/attraction/batu-ferringhi-beach-2213.webp",
+    "latitude": 5.473421754343228, 
+    "longitude": 100.24603603787241
+  },
+  
+  {
+    "id": 53,
+    "name": "Entopia",
+    "state": "Penang",
+    "price": 75,
+    "category": "Nature",
+    "description": "Entopia is a captivating nature sanctuary located in Teluk Bahang, Penang, dedicated to butterflies, insects, and lush tropical flora. Spanning over 100,000 square feet, this immersive attraction features two main zones: Natureland, a living garden with free flying butterflies and waterfalls, and The Cocoon, an indoor discovery centre with interactive exhibits and educational displays. Visitors can witness thousands of colourful butterflies, exotic insects, and rare plants up close. Entopia combines conservation, education, and recreation, making it a perfect destination for families, nature enthusiasts, and photographers seeking a magical tropical experience.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNjrVNhKrc-70W_fJmXDI-vCVqs6VhPMOf9Q&s",
+    "latitude": 5.447621500007533, 
+    "longitude": 100.2149889355252
+  },
+  
+  {
+    "id": 54,
+    "name": "ESCAPE Penang",
+    "state": "Penang",
+    "price": 200,
+    "category": "City",
+    "description": "ESCAPE Penang is an exhilarating outdoor adventure theme park nestled in the lush rainforest of Teluk Bahang, Penang. Spanning 44 acres, this eco friendly attraction features world record breaking zip lines, thrilling obstacle courses, water slides, and challenging rope circuits designed for all ages. Highlights include the longest tube water slide in the world and a 1.1 kilometre zip coaster through the jungle canopy. The park promotes physical activity, teamwork, and environmental awareness through nature based challenges. Visitors can enjoy adrenaline pumping activities while surrounded by stunning tropical scenery, making it a must visit destination for adventure seekers and families.",
+    "image": "https://images.squarespace-cdn.com/content/v1/62f1cb15a2cb083186ccd6d1/0abe339e-fcf0-4300-9908-62bb9b980db5/EscapePenangThemePark-KlookSingapore.jpg?format=1000w",
+    "latitude": 5.449763723699745, 
+    "longitude": 100.21401966187005
+  },
+
+  {
+    "id": 55,
+    "name": "Petronas Twin Towers",
+    "state": "Kuala Lumpur",
+    "category": "City",
+    "latitude": 3.1390,
+    "longitude": 101.6869,
+    "image": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=800",
+    "price": 35.75,
+    "description": "The Petronas Twin Towers, completed in 1998, are Malaysia’s most iconic skyscrapers, standing at 451.9 meters with 88 floors. Designed by César Pelli, their Islamic-inspired architecture features an eight-pointed star floor plan symbolizing unity. They were the tallest buildings in the world from 1998 to 2004 and remain the tallest twin towers globally. Visitors can explore Suria KLCC mall, ascend to the Skybridge at levels 41–42, and reach the observation deck at level 86 for breathtaking views of Kuala Lumpur. The towers also house offices, a concert hall, and cultural spaces, making them a symbol of Malaysia’s ambition and modern development."
+  },
+
+  {
+    "id": 56,
+    "name": "KL Forest Eco Park",
+    "state": "Kuala Lumpur",
+    "category": "Nature",
+    "latitude": 3.1526,
+    "longitude": 101.7077,
+    "price": 10,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT166J-Vvn-MyPQngfsEcPpJrGcGsti7Fx7yw&s",
+    "description": "KL Forest Eco Park, formerly Bukit Nanas Forest Reserve, is one of Malaysia’s oldest forest reserves established in 1906. Covering 9.3 hectares, it is a rare urban rainforest located at the base of KL Tower. The park features a 200-meter canopy walkway suspended 21 meters above ground, offering unique views of both the jungle canopy and Kuala Lumpur’s skyline. It is home to diverse flora and fauna including over 200 tree species, Silver Leaf Monkeys, Long-Tailed Macaques, butterflies, and rare herbs. Visitors can enjoy hiking trails such as Merbau, Jelutong, and Arboretum trails, as well as picnic and camping facilities. It serves as an educational eco-tourism site, blending biodiversity conservation with urban accessibility."
+  },
+
+  {
+    "id": 57,
+    "name": "Islamic Arts Museum Malaysia",
+    "state": "Kuala Lumpur",
+    "category": "Culture",
+    "latitude": 3.1419,
+    "longitude": 101.6898,
+    "price": 0,
+    "image": "https://travelmalaysia.com.my/wp-content/uploads/2025/07/Islamic-Arts-Museum-Malaysia-Featured-Image.webp",
+    "description": "The Islamic Arts Museum Malaysia (IAMM), opened in 1998, is Southeast Asia’s largest museum dedicated to Islamic art. Located near the National Mosque, it houses over 12,000 artifacts spanning 1,400 years of Islamic history. The museum’s 30,000 sq. meter building features turquoise domes and Islamic architectural motifs. Its 12 permanent galleries include Qur’an & Manuscripts, Architecture, India, China, Malay World, Arms & Armour, Textiles, Jewelry, Coins & Seals, Metalwork, Woodwork, and Ceramics. Highlights include scale models of famous mosques worldwide, ancient glassware, and the restored 19th-century Ottoman Room. Facilities include a conservation center, scholar’s library, restaurant, and museum shop. Open daily from 9:30 AM to 6:00 PM, IAMM is recognized as one of Asia’s top museums, showcasing the richness and diversity of Islamic heritage."
+  },
+
+  {
+    "id": 58,
+    "name": "Titiwangsa Lake Gardens",
+    "state": "Kuala Lumpur",
+    "category": "Beach",
+    "latitude": 3.1743,
+    "longitude": 101.7090,
+    "price": 0,
+    "image": "https://www.holidify.com/images/cmsuploads/compressed/TitiwangsaLakeGardens_20201012103605.jpg",
+    "description": "Titiwangsa Lake Gardens (Taman Tasik Titiwangsa) is a 95-hectare urban park located north of central Kuala Lumpur. Originally formed from tin mining lakes, it has been landscaped into a recreational hub featuring a large central lake, jogging and cycling paths, playgrounds, and picnic areas. Visitors can enjoy paddle boating, kayaking, horse riding, rollerblading, and radio-controlled car tracks. The park offers panoramic views of the KL skyline, including the Petronas Twin Towers and KL Tower reflected on the lake. It is family-friendly with open lawns, outdoor exercise equipment, tennis courts, and nearby attractions such as Istana Budaya and the National Art Gallery. Admission is free, and the park is open daily from 6:30 AM to 10:00 PM, making it one of Kuala Lumpur’s best-maintained parks."
+  },
+
+  {
+    "id": 59,
+    "name": "A Famosa Melaka:Safari Wonderlands",
+    "state": "Melaka",
+    "category": "City",
+    "latitude": 2.1933,
+    "longitude": 102.2501,
+    "price": 65,
+    "image": "https://images.pexels.com/photos/28909737/pexels-photo-28909737.jpeg",
+    "description": "A Famosa is one of the oldest surviving European architectural remains in Asia, built in 1511 by the Portuguese after their conquest of Melaka. Originally a fortress with multiple towers and walls, only the Porta de Santiago gatehouse remains today. It symbolizes Melaka’s colonial past and is a popular historical landmark visited by tourists worldwide."
+  },
+
+  {
+    "id": 60,
+    "name": "Melaka Botanical Garden",
+    "state": "Melaka",
+    "category": "Nature",
+    "latitude": 2.2700,
+    "longitude": 102.2833,
+    "price": 0,
+    "image": "https://www.visitmelaka.com.my/images/eco/tamanbotanikal.jpg",
+    "description": "Melaka Botanical Garden spans 92 hectares and is a lush green escape featuring tropical plants, themed gardens, jogging tracks, and cycling paths. It is home to diverse flora and fauna, including rare orchids and forest species. The garden also hosts recreational facilities such as playgrounds and camping sites, making it a favorite spot for families and nature lovers."
+  },
+
+  {
+    "id": 61,
+    "name": "Stadthuys",
+    "state": "Melaka",
+    "category": "Culture",
+    "latitude": 2.1935,
+    "longitude": 102.2469,
+    "price": 120,
+    "image": "https://dailytravelpill.com/wp-content/uploads/2018/08/things-to-see-and-do-melaka-malacca-16.jpg",
+    "description": "The Stadthuys, built in 1650 by the Dutch, is one of the oldest Dutch buildings in the East. Painted in its iconic red, it served as the official residence of Dutch governors and officers. Today, it houses the Museum of History and Ethnography, showcasing artifacts, traditional costumes, and exhibits on Melaka’s rich cultural heritage. It is a central landmark in Dutch Square."
+  },
+
+  {
+    "id": 62,
+    "name": "Pantai Klebang",
+    "state": "Melaka",
+    "category": "Beach",
+    "latitude": 2.2167,
+    "longitude": 102.2000,
+    "price": 0,
+    "image": "https://ik.imagekit.io/tvlk/blog/2022/12/shutterstock_1151104304.jpg?tr=dpr-2,w-675",
+    "description": "Pantai Klebang is a popular beach located just outside Melaka city. Known for its wide sandy shores and unique sand dunes, it is a hotspot for kite flying, horse riding, and photography. Visitors can enjoy coconut shakes from nearby stalls, relax by the sea, or explore the dunes that resemble a desert landscape. It is a favorite weekend destination for both locals and tourists."
+  },
+
+  {
+    "id": 63,
+    "name": "Seremban Lake Garden",
+    "state": "Negeri Sembilan",
+    "category": "City",
+    "latitude": 2.7186,
+    "longitude": 101.9424,
+    "price": 0,
+    "image": "https://live.staticflickr.com/4206/35276370900_4dbaf58e32_b.jpg",
+    "description": "Seremban Lake Garden is one of the oldest and most popular recreational parks in Negeri Sembilan. Built during the colonial era, the garden features landscaped lawns, jogging tracks, playgrounds, and a central lake surrounded by lush greenery. It is a favorite spot for locals to relax, exercise, and enjoy family picnics. The garden also hosts cultural events and festivals, making it a vibrant urban attraction in Seremban."
+  },
+
+  {
+    "id": 64,
+    "name": "Gunung Angsi",
+    "state": "Negeri Sembilan",
+    "category": "Nature",
+    "latitude": 2.7833,
+    "longitude": 102.0333,
+    "price": 5,
+    "image": "https://d2exd72xrrp1s7.cloudfront.net/www/000/1k4/nr/nrnvnxlxekx11ixydb2bej2oa3fzc3a4y-uhi17401504/0?width=768&height=576&crop=true",
+    "description": "Gunung Angsi, standing at 825 meters, is one of Negeri Sembilan’s most popular hiking destinations. Located near Ulu Bendul Recreational Forest, the mountain offers a moderately challenging trek through tropical rainforest. The trail takes hikers past rivers, waterfalls, and diverse flora and fauna, culminating in panoramic views of Seremban and its surrounding landscapes. It is a favorite among nature lovers and adventure seekers."
+  },
+
+  {
+    "id": 65,
+    "name": "Sri Menanti Royal Museum",
+    "state": "Negeri Sembilan",
+    "category": "Culture",
+    "latitude": 2.6500,
+    "longitude": 102.0833,
+    "price": 7,
+    "image": "https://tse2.mm.bing.net/th/id/OIP.hocQT_urAeq0EzAVcEFebwHaDF?pid=Api&P=0&h=180",
+    "description": "Sri Menanti Royal Museum, formerly the Istana Lama Seri Menanti, is a historic wooden palace built in 1908 without the use of nails. It served as the royal residence of the Negeri Sembilan monarchy until 1931. The palace showcases traditional Minangkabau architecture with distinctive curved rooflines. Today, it functions as a museum displaying royal regalia, costumes, weaponry, and artifacts that highlight the cultural heritage of Negeri Sembilan’s monarchy and its unique Adat Perpatih traditions."
+  },
+
+  {
+    "id": 66,
+    "name": "Lexis Hibiscus Port Dickson",
+    "state": "Negeri Sembilan",
+    "category": "Beach",
+    "latitude": 2.5200,
+    "longitude": 101.8000,
+    "price": 918,
+    "image": "https://tse2.mm.bing.net/th/id/OIP.oBOt11Ngmq6SiIjNZ4jT1gHaE7?pid=Api&P=0&h=180",
+    "description": "Port Dickson is Negeri Sembilan’s most famous coastal destination, stretching over 18 kilometers along the Straits of Malacca. The beach offers golden sands, calm waters, and a wide range of activities including swimming, jet skiing, banana boat rides, and fishing. Popular spots include Teluk Kemang and Blue Lagoon. The area is lined with resorts, hotels, and seafood restaurants, making it a favorite weekend getaway for locals and tourists. Port Dickson also features historical attractions such as the Army Museum and Cape Rachado Lighthouse."
+  },
+
+  {
+    "id": 67,
+    "name": "Labuan War Cemetery",
+    "state": "Labuan",
+    "price": 0,
+    "category": "Culture",
+    "description": "Labuan War Cemetery is Malaysia's largest Commonwealth World War II cemetery, serving as the solemn final resting place for over 3,900 fallen soldiers from Australia, Britain, India, New Zealand and Malaya. Located along Jalan Tanjung Batu in Labuan, the meticulously maintained grounds hold the Labuan Memorial and Labuan Cremation Memorial, commemorating heroes who perished during the Battle of Borneo, the Borneo Campaign of 1945, and the infamous Death Marches from Sandakan to Ranau. A Remembrance Day ceremony is held annually every 11th November.",
+    "image": "https://www.pulaulabuan.com/wp-content/uploads/Labuan-War-Cemetery-Uwe-Aranas.jpg",
+    "latitude": 5.286971898266244, 
+    "longitude": 115.26188002870799
+    },
+
+  {
+    "id": 68,
+    "name": "Layang-layang Beach",
+    "state": "Labuan",
+    "price": 0,
+    "category": "Beach",
+    "description": "Layang-Layang Beach, also known as Pantai Layang-Layangan, is a pristine and award-winning beach situated on the west coast of Labuan Island. Recognised with the United Nations Cleanest Beach Award in 2008, this stunning 6-kilometre stretch faces the South China Sea and is celebrated for its breathtaking sunsets and tranquil evening strolls. The beach also holds deep historical significance as the site of the Japanese army's surrender in 1945, marked by a nearby commemorative monument.",
+    "image": "https://sabah.attractionsinmalaysia.com/img/photoState/sabah/LayanglayangIsland/6.jpg",
+    "latitude": 5.3347605941259015, 
+    "longitude": 115.19430302642412
+    },
+
+  {
+    "id": 69,
+    "name": "Labuan Marine Museum",
+    "state": "Labuan",
+    "price": 0,
+    "category": "Nature",
+    "description": "Labuan Marine Museum is Malaysia's first marine museum, officially launched on 26 January 2003 and housed in a unique ship-shaped building in Labuan Island. The museum features 572 collections of marine specimens, fishing tools, diving gear, and oceanography technologies, offering visitors an immersive journey into Borneo's rich underwater heritage. One of its star attractions is the skeleton of a century-old baby Indian Fin Whale measuring 42 feet long, making it a fascinating educational destination for all ages.",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/68/fe/a2/marine-museum-in-labuan.jpg?w=1200&h=1200&s=1",
+    "latitude": 5.274099921128573, 
+    "longitude": 115.25473661066835
+  },
+
+  {
+    "id": 70,
+    "name": "Pantai Cahaya Bulan",
+    "state": "Kelantan",
+    "price": 0,
+    "category": "Beach",
+    "description": "Pantai Cahaya Bulan, also known as Moonlight Beach or PCB, is Kelantan's most beloved and enduring beach attraction located just 10 kilometres from Kota Bharu city. Formerly named Pantai Cinta Berahi by a lovelorn British soldier during World War II, this wide sandy beach facing the South China Sea offers spectacular sunsets, vibrant food stalls serving fresh grilled seafood, traditional kite flying, beach volleyball, and a charming stretch of batik shops and workshops lining the scenic coastal road.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSae9HstcvQesKadeGEIWYwc_UYOX_ZDmIMnw&s",
+    "latitude": 6.1833,
+    "longitude": 102.2833
+  },
+
+  {
+    "id": 71,
+    "name": "Town of Kota Bharu",
+    "state": "Kelantan",
+    "price": 0,
+    "category": "City",
+    "description": "Kota Bharu, the Royal City and capital of Kelantan, is a vibrant cultural gem founded in 1844 by Sultan Muhammad II along the Kelantan River. Renowned as Malaysia's heartland of Malay traditions, the city captivates visitors with its iconic Pasar Siti Khadijah market, magnificent royal palaces, world-class handicraft museums, traditional batik and songket workshops, stunning mosques, and rich WWII history. A thriving hub for traditional arts including wau kite-making, shadow puppetry, silverware, and silat martial arts performances.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6fkZ3iNaEvSV1hxfAltcjbtSaVcYhHuT3Xg&s",
+    "latitude": 6.1254,
+    "longitude": 102.2386
+  },
+
+  {
+    "id": 72,
+    "name": "Gelanggang Seni",
+    "state": "Kelantan",
+    "price": 0,
+    "category": "Culture",
+    "description": "Gelanggang Seni is Kelantan's premier cultural centre located in Kota Bharu, dedicated to preserving and showcasing the finest traditional Malay arts and performances. Built in 1978, this iconic venue offers completely free and family-friendly performances including Wayang Kulit shadow puppetry, Silat martial arts, Rebana Ubi drumming, Gasing top-spinning, Wau Bulan kite-flying, Dikir Barat, and traditional dance. Performances are held every Monday, Wednesday and Saturday from February to September, making it a truly unforgettable and authentic cultural experience for all visitors.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDaB1npnIzH8ZNYZazcAeu5CXa7VQ4VFbo8A&s",
+    "latitude": 56.9869,
+    "longitude": 102.2381
+  },
+
+  {
+    "id": 73,
+    "name": "Gunung Stong State Park",
+    "state": "Kelantan",
+    "price": 15,
+    "category": "Nature",
+    "description": "Gunung Stong State Park is one of Malaysia's top five ecotourism destinations, covering 21,950 hectares of pristine rainforest near Dabong, Kelantan. Gazetted as a state park in 2005, it is home to at least seven majestic peaks including Gunung Stong at 1,422 metres, and the spectacular seven-tiered Jelawang Waterfall cascading 305 metres, one of Southeast Asia's highest waterfalls. The park shelters diverse wildlife including tigers, elephants, hornbills, and rare Rafflesia flowers, offering world-class hiking, trekking, and camping adventures.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo6_GEwuTl3wVYhMBrcoeQ2z5TlcHgmLCuRQ&s",
+    "latitude": 5.3500,
+    "longitude": 101.9333
+  },
+
+  {
+    "id": 74,
+    "name": "Kampung Kraftangan",
+    "state": "Kelantan",
+    "price": 0,
+    "category": "Culture",
+    "description": "Kampung Kraftangan, also known as the Handicraft Village of Kota Bharu, is a beautifully designed cultural complex built entirely from traditional wood and bamboo elements, reflecting authentic Kelantanese Malay architecture. Opened in 1991, this vibrant heritage centre houses the Craft Museum known as Balai Getam Guri, showcasing exquisite collections of batik, songket, silverware, woodcarvings, and traditional embroidery. Visitors can watch skilled artisans at work, participate in hands-on batik painting workshops, and purchase authentic handmade souvenirs, making it a must-visit cultural treasure in Kelantan.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThG0HOte3X4-ui7YPi87UOyXbFP90Q4GXw-w&s",
+    "latitude": 6.1265,
+    "longitude": 102.2419
+  },
+
+  {
+    "id": 75,
+    "name": "Perhentian Island",
+    "state": "Terengganu",
+    "price": 120,
+    "category": "Beach",
+    "description": "Perhentian Island, meaning 'stopping point' in Malay, is a stunning tropical paradise located 19 kilometres off the northeastern coast of Terengganu, comprising two main islands namely Perhentian Besar and Perhentian Kecil. Celebrated for pristine white sandy beaches, crystal-clear turquoise waters, and vibrant coral reefs housing over 50 species of corals, it is a premier destination for snorkelling, scuba diving, jungle trekking, and turtle watching. The island is accessible via a scenic 30 to 45-minute speedboat ride from Kuala Besut jetty.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQW8BTJ6wX_61UaxdyPtrYDXimt2yS_WvP1w&s",
+    "latitude": 5.9166,
+    "longitude": 102.7471
+  },
+
+  {
+    "id": 76,
+    "name": "Redang Island",
+    "state": "Terengganu",
+    "price": 150,
+    "category": "Beach",
+    "description": "Redang Island, or Pulau Redang, is the largest island in Terengganu's nine-island Marine Park archipelago, situated 45 kilometres off the Terengganu coast in the South China Sea. Renowned as one of Malaysia's most breathtaking tropical paradises, it boasts powdery white sandy beaches, crystal-clear turquoise waters, and extraordinary marine biodiversity including over 3,000 species of fish, 500 species of corals, and nesting sea turtles. A world-class destination for snorkelling, scuba diving, jungle trekking, and resort-style island getaways amid stunning natural surroundings.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSUieMwQoQ4bLfQoBmeumiP39zWgGtNAphHw&s",
+    "latitude": 5.7686,
+    "longitude": 103.0089
+  },
+
+  {
+    "id": 77,
+    "name": "Kuala Terengganu Chinatown",
+    "state": "Terengganu",
+    "price": 0,
+    "category": "City",
+    "description": "Kuala Terengganu Chinatown, locally known as Kampung Cina, is one of the oldest Chinese settlements in Malaysia dating back over 300 years, awarded heritage status by the UNESCO World Monument Watch Programme. This vibrant historic district along Jalan Bandar is lined with beautifully preserved pastel-coloured shophouses, ancestral clan townhouses, ancient temples, and charming kopitiams. Visitors can explore seven uniquely themed back alleys adorned with stunning murals, including the famous Turtle Alley, while sampling delicious local street food and Hainanese coffee.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfoyKQyMh_37xiRGdeVPv2EOMILRN6nTwnSw&s",
+    "latitude": 5.3296,
+    "longitude": 103.1370
+  },
+
+  {
+    "id": 78,
+    "name": "Crystal Mosque",
+    "state": "Terengganu",
+    "price": 0,
+    "category": "Culture",
+    "description": "Crystal Mosque, or Masjid Kristal, is one of Malaysia's most iconic and breathtaking landmarks located on Wan Man Island within the Islamic Heritage Park in Kuala Terengganu. Constructed between 2006 and 2008 using steel, glass, and crystal, this magnificent mosque accommodates up to 1,500 worshippers and is globally recognised for its stunning modern Islamic architecture. During daytime it radiates a dazzling golden hue, while at night it transforms into a mesmerising luminous beacon displaying colourful neon lights, captivating visitors worldwide.",
+    "image": "https://images.pexels.com/photos/26615661/pexels-photo-26615661.jpeg",
+    "latitude": 5.3026,
+    "longitude": 103.1450
+  },
+
+  {
+    "id": 79,
+    "name": "Tasik Kenyir",
+    "state": "Terengganu",
+    "price": 25,
+    "category": "Nature",
+    "description": "Kenyir Lake, or Tasik Kenyir, is the largest man-made lake in Southeast Asia, spanning over 260 square kilometres in the heart of Terengganu. Created between 1978 and 1985 by damming the Kenyir River for hydroelectric power generation, the lake is dotted with over 340 scenic islands surrounded by lush tropical rainforests. Visitors can enjoy boat tours, fishing, kayaking, jungle trekking, waterfall exploration, birdwatching, hot springs, and visiting the famous Kelah Fish Sanctuary and Kenyir Elephant Conservation Village.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJe92a0E1kTgWB4t6ohwFJ4iSoI5QHjGArlg&s",
+    "latitude": 4.9833,
+    "longitude": 102.7500
+  },
+
+  {
+    "id": 80,
+    "name": "Pangkor Island",
+    "state": "Perak",
+    "price": 0,
+    "category": "Beach",
+    "description": "Pangkor Island, or Pulau Pangkor, is a charming tropical island located off the southwest coast of Perak, accessible via a 15 to 30-minute ferry ride from Lumut. Renowned for its pristine beaches including Teluk Nipah, Coral Bay, and Pasir Bogak, this historically rich island is home to a 17th-century Dutch Fort, the famous Tiger Rock inscription, Malaysia's only sea-facing Hindu temple, a unique Floating Mosque, and vibrant fishing villages, offering visitors a perfect blend of heritage, culture, and seaside adventure.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8FYwkKe2MDpdS2UIgoLohWVpE3hI8IyE-AA&s",
+    "latitude": 4.2667,
+    "longitude": 100.5539
+  },
+
+  {
+    "id": 81,
+    "name": "Ipoh Old Town",
+    "state": "Perak",
+    "price": 0,
+    "category": "City",
+    "description": "Ipoh Old Town is a charming heritage district in Perak, celebrated for its beautifully preserved British colonial architecture, vibrant street murals, and rich tin-mining history. Divided from Ipoh New Town by the Kinta River, the area is home to iconic landmarks including the majestic Ipoh Railway Station, Birch Memorial Clock Tower, and the famous Concubine Lane lined with colourful shophouses, boutique cafes, and souvenir stalls. Ranked among Asia's top coffee towns by Lonely Planet, Ipoh Old Town is also a world-renowned gastronomic paradise famous for its Ipoh White Coffee.",
+    "image": "https://bangkokattractions.com/wp-content/uploads/2023/04/ipoh-old-town.jpg",
+    "latitude": 4.5975,
+    "longitude": 101.0901
+  },
+
+  {
+    "id": 82,
+    "name": "Kellie's Castle",
+    "state": "Perak",
+    "price": 10,
+    "category": "Culture",
+    "description": "Kellie's Castle is a fascinating unfinished mansion perched on a hill in Batu Gajah, Perak, built in 1915 by wealthy Scottish rubber planter William Kellie-Smith. Designed in a stunning blend of Moorish, Indo-Saracenic, and Roman architecture using bricks and marble imported from India, the ambitious castle was planned with 14 rooms, secret underground tunnels, hidden stairways, and Malaya's first elevator. Left incomplete following Kellie-Smith's sudden death in 1926, this mysterious heritage site is now famed for its hauntings, rich colonial history, and breathtaking architecture.",
+    "image": "https://www.kelliesfisb.com.my/site_media/img/3_20241128191754.jpg",
+    "longitude": 101.1709
+  },
+  
+  {
+    "id": 83,
+    "name": "Gua Tempurung",
+    "state": "Perak",
+    "price": 22,
+    "category": "Nature",
+    "description": "Gua Tempurung is Peninsular Malaysia's largest and most magnificent limestone cave, estimated to be over 400 million years old, located in Gopeng, Perak, approximately 25 kilometres south of Ipoh. Stretching 4.5 kilometres in total length with 1.9 kilometres accessible to visitors, the cave features five spectacular coconut shell-shaped domes adorned with breathtaking stalactites, stalagmites, and unique rock formations, including the magnificent Golden Flowstone Cavern. A 1.6-kilometre underground river flows through the cave, offering thrilling wet river adventure tours, dry guided tours, and exciting rock climbing experiences for all levels of adventurers.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKmbGoLcNdui45xgKnDuGAI90j31qVBVxSRw&s",
+    "longitude": 101.1856
+  },
+
+  {
+    "id": 84,
+    "name": "Kek Lok Tong",
+    "state": "Perak",
+    "price": 0,
+    "category": "Culture",
+    "description": "Kek Lok Tong is a magnificent cave temple nestled within the limestone hills of Gunung Rapat in Ipoh, Perak. This serene spiritual sanctuary features stunning stalactite and stalagmite formations, intricate Buddhist statues, and beautifully landscaped gardens with a tranquil lotus pond. Visitors can explore the vast cavern chambers, admire the ornate altars, and enjoy peaceful walks through the scenic park. The temple offers a unique blend of natural wonder, religious heritage, and cultural artistry, making it one of Ipoh's most captivating and photogenic attractions for both pilgrims and tourists alike",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUuuLaGBWf0FFmUOQr7ZYJvrdPRkGhjTuM8A&s",
+    "latitude": 4.5667,
+    "longitude": 101.1333
+  },
+
+  {
+    "id": 85,
+    "name": "Perdana Putra",
+    "state": "Putrajaya",
+    "price": 0,
+    "category": "City",
+    "description": "Perched majestically on the central hilltop of Putrajaya, 50 meters above ground level, Perdana Putra serves as the administrative nerve center of Malaysia. Built between 1997 and 1999, it houses the office complex of the Prime Minister, the Deputy Prime Minister, and the Chief Secretary to the Government.",
+    "image":"https://i1-c.pinimg.com/1200x/7d/5d/b9/7d5db99d69870d272189082f44346940.jpg",
+    "latitude": 2.9384,
+    "longitude": 101.6943
+  }
+
+]

@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Memories - Malaysia Tourism Guide</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/x-icon" href="assets/rafflesia.png" />
+
+</head>
+
+
+<body>
+<header>
+  <h1 class="site-title"><a href="index.html" class="title-link"><img src="assets/rafflesia.png" class="site-logo" alt="Rafflesia">Memories</a></h1>
+  <nav>
+    <a href="index.html" class="active">Home</a>
+    <a href="destinations.html">Destinations</a>
+    <a href="favorites.html">My Trip</a>
+    <a href="about.html">About Us</a>
+  </nav>
+</header>
+
+<div class="news-wrapper">
+  <div class="news-slider" id="newsSlider">
+    <div class="news-slide" style="background-image:url('https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=1200')">
+      <div class="news-text"><h6>VISIT</h6><h1>KUALA LUMPUR</h1><p>"Capital city of Malaysia"</p></div>
+    </div>
+    <div class="news-slide" style="background-image:url('https://i1-c.pinimg.com/1200x/7d/5d/b9/7d5db99d69870d272189082f44346940.jpg')">
+      <div class="news-text"><h6>VISIT</h6><h1>PUTRAJAYA</h1><p>"Administrative and Economic Hub"</p></div>
+    </div>
+    <div class="news-slide" style="background-image:url('https://images.unsplash.com/photo-1704890514666-4be5cacacfd6?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')">
+      <div class="news-text"><h6>VISIT</h6><h1>PENANG</h1><p>"Longest bridge in Southeast Asia - Penang Bridge"</p></div>
+    </div>
+    <div class="news-slide" style="background-image:url('https://images.unsplash.com/photo-1663168074436-c6fc315bfd61?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')">
+      <div class="news-text"><h6>VISIT</h6><h1>SABAH</h1><p>"Land Below the Wind"</p></div>
+    </div>
+    <div class="news-slide" style="background-image:url('https://upload.wikimedia.org/wikipedia/commons/5/53/The_main_entrance_to_the_Niah_Caves_at_sunset..jpg')">
+      <div class="news-text"><h6>VISIT</h6><h1>SARAWAK</h1><p>"One of the largest caves entrances in the world - Niah Cave"</p></div>
+    </div>
+  </div>
+  <div class="news-indicator" id="newsDots">
+    <span class="dot active"></span>
+    <span class="dot"></span>
+    <span class="dot"></span>
+    <span class="dot"></span>
+    <span class="dot"></span>
+  </div>
+
+
+<div id="eventsGrid"></div>
+<div class="discover-container">
+    <div class="left-panel">
+        <span class="section-title">DISCOVER</span>
+        <div class="brand-badge">Surreal <span>Experiences!</span></div>
+        <p class="tagline">Explore what's happening across the country
+        <div class="controls-wrapper">
+            <div class="numeric-counter">
+                <span id="currentNum">01</span><span class="separator">/</span><span id="totalNum">12</span>
+            </div>
+            <div class="btn-group">
+                <button class="nav-arrow" id="prevBtn" title="Previous">&#8249;</button>
+                <button class="nav-arrow" id="nextBtn" title="Next">&#8250;</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="right-panel">
+        <div class="carousel-window">
+            <div class="carousel-track" id="carouselTrack">
+                </div>
+        </div>
+    </div>
+</div>
+
+<div class="what-is-malaysia">
+  <div class="what-is-malaysia-content">
+    <h2>What is Malaysia?</h2>
+    <p>Malaysia is a multicultural country with Malay, Chinese, and Indian populations. Be mindful of local customs, especially in rural areas. For example, dress modestly when visiting religious sites, and always remove shoes before entering mosques or temples. Malaysia offers a unique blend of modern cities, pristine natural landscapes, and rich cultural heritage waiting to be explored.</p>
+  </div>
+</div>
+<div class="note"><h2>Map of Malaysia</h2></div>
+<div class="map">
+  <div class="map-container">
+  <img  src="assets/mapofmalaysia.avif" alt="map of malaysia" >
+  </div>
+</div>
+
+<h2 class="title">Quick Access by State</h2>
+<div class="state-grid" id="stateGrid">
+  <a href="destinations.html?state=Kuala%20Lumpur" class="state-card">Kuala Lumpur</a>
+  <a href="destinations.html?state=Selangor" class="state-card">Selangor</a>
+  <a href="destinations.html?state=Penang" class="state-card">Penang</a>
+  <a href="destinations.html?state=Perlis" class="state-card">Perlis</a>
+  <a href="destinations.html?state=Kedah" class="state-card">Kedah</a>
+  <a href="destinations.html?state=Kelantan" class="state-card">Kelantan</a>
+  <a href="destinations.html?state=Pahang" class="state-card">Pahang</a>
+  <a href="destinations.html?state=Terengganu" class="state-card">Terengganu</a>
+  <a href="destinations.html?state=Sabah" class="state-card">Sabah</a>
+  <a href="destinations.html?state=Sarawak" class="state-card">Sarawak</a>
+  <a href="destinations.html?state=Melaka" class="state-card">Melaka</a>
+  <a href="destinations.html?state=Johor" class="state-card">Johor</a>
+  <a href="destinations.html?state=Perak" class="state-card">Perak</a>
+  <a href="destinations.html?state=Negeri%20Sembilan" class="state-card">Negeri Sembilan</a>
+  <a href="destinations.html?state=Labuan" class="state-card">Labuan</a>
+  <a href="destinations.html?state=Putrajaya" class="state-card">Putrajaya</a>
+</div>
+
+<h2 class="title">Top Pick Destinations</h2>
+<div class="top-picks-intro">
+  <p>Our hand-picked favourites — the must-visit places every traveller should experience in Malaysia.</p>
+</div>
+<div id="topPicks"></div>
+
+<footer>
+  <p>Made with ❤️ for Malaysia</p>
+  <p class="footer-credit">Data & images sourced from various Malaysian tourism boards.</p>
+</footer>
+
+<script src="func.js"></script>
+</body>
+</html>

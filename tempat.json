@@ -1,0 +1,111 @@
+[
+  {
+    "id": 1,
+    "name": "Hari Raya Aidilfitri",
+    "month": "April",
+    "state": "Nationwide",
+    "category": "Cultural",
+    "description": "A vibrant celebration marking the end of Ramadan with open houses, traditional Malay delicacies like ketupat and rendang, and colourful traditional attire.",
+    "image": "https://cdn.theculturetrip.com/wp-content/uploads/2018/02/shutterstock_656614822.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Chinese New Year",
+    "month": "January/February",
+    "state": "Nationwide",
+    "category": "Cultural",
+    "description": "The most important festival for Malaysian Chinese, featuring lion dances, firecrackers, reunion dinners, and ang pow (red packets) for good fortune.",
+    "image": "https://media.cntraveler.com/photos/6914d3dcca749f4266a56daa/master/w_2560%2Cc_limit/GettyImages-2195870496%2520(1).jpg"
+  },
+  {
+    "id": 3,
+    "name": "Deepavali",
+    "month": "October/November",
+    "state": "Nationwide",
+    "category": "Cultural",
+    "description": "The Hindu Festival of Lights celebrated with oil lamps, colourful kolam decorations, traditional Indian sweets, and cultural performances.",
+    "image": "https://vulcanpost.com/wp-content/uploads/2015/11/india_diwali_2012_02-e1447054139613.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Thaipusam",
+    "month": "January/February",
+    "state": "Batu Caves, Selangor",
+    "category": "Religious",
+    "description": "A spectacular Hindu festival where devotees carry kavadis up 272 steps to Batu Caves as an act of penance and devotion to Lord Murugan.",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/photo_gallery/202302/ap23036150228844-.jpg?VersionId=bbfUGVZgu4ZMHoUAcC1JYfVHba41JN93&size=686:*"
+  },
+  {
+    "id": 5,
+    "name": "Rainforest World Music Festival",
+    "month": "June",
+    "state": "Sarawak",
+    "category": "Music",
+    "description": "An annual three-day music festival held at the Sarawak Cultural Village, featuring world music performances from international and local artists amidst lush rainforest.",
+    "image": "https://saratic.com/wp-content/uploads/2025/05/RWMF-2022.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Penang International Food Festival",
+    "month": "April",
+    "state": "Penang",
+    "category": "Food",
+    "description": "A month-long celebration of Penang's world-famous street food, featuring food trails, cooking demonstrations, and night markets showcasing diverse culinary traditions.",
+    "image": "https://lh5.googleusercontent.com/2DACZvz5Yr32jPo38rhygpgPO9bVOrBufDVt3d-7oOPtqFzmKoOjAz1feB9AUQJkIFib949p4tTyauURDP67XeXyj8Ta-x706nR0jAZrbiBsxk0YRGB8lUVI5w5-yZGVnbdVDwKThsmk5FNGFyA2qQM"
+  },
+  {
+    "id": 7,
+    "name": "Pesta Kaamatan",
+    "month": "May",
+    "state": "Sabah",
+    "category": "Cultural",
+    "description": "The Kadazandusun harvest festival celebrating the rice harvest with traditional dances, buffalo races, beauty pageants, and the iconic Unduk Ngadau competition.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4jSQbX5MwQTnAhnY9aojmvoP4YSMNJ6FXHQ&s"
+  },
+  {
+    "id": 8,
+    "name": "Gawai Dayak",
+    "month": "June",
+    "state": "Sarawak",
+    "category": "Cultural",
+    "description": "A vibrant Dayak harvest festival celebrated with traditional longhouse gatherings, tuak (rice wine), ngajat dances, and community feasting.",
+    "image": "https://static.officeholidays.com/images/1280x853c/malaysia-gawai-dayak-01.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Malaysia Water Festival",
+    "month": "April",
+    "state": "Various",
+    "category": "Sports",
+    "description": "A series of exciting water-based events including dragon boat races, sandcastle competitions, and beach sports held at various coastal destinations.",
+    "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/width=3840,quality=80,format=auto,fit=scale-down,metadata=none,dpr=1,onerror=redirect/https://media.freemalaysiatoday.com/wp-content/uploads/2026/05/49ca657a-7_rain_rave_water_music_festival_moganraj_fmt_02052026-copy-11.webp"
+  },
+  {
+    "id": 10,
+    "name": "George Town Festival",
+    "month": "July/August",
+    "state": "Penang",
+    "category": "Arts",
+    "description": "A month-long celebration of arts and culture in the UNESCO World Heritage city, featuring theatre, dance, music, visual arts, and street performances.",
+    "image": "https://whc.unesco.org/uploads/activities/documents/activity-1107-4.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Putrajaya International Hot Air Balloon Fiesta",
+    "month": "March",
+    "state": "Putrajaya",
+    "category": "Entertainment",
+    "description": "A spectacular balloon festival featuring colourful hot air balloons from around the world, night glow shows, and family-friendly activities.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThK7F1QDIpWQ2dDeqEm-s0Z_K2pGO4L5mprA&s"
+  },
+  {
+    "id": 12,
+    "name": "Langkawi International Maritime & Aerospace Exhibition",
+    "month": "May",
+    "state": "Kedah",
+    "category": "Exhibition",
+    "description": "One of Asia's premier aerospace and maritime exhibitions featuring thrilling air shows, aircraft displays, and naval demonstrations.",
+    "image": "https://assets.nst.com.my/images/articles/17ntitik16_1553916023.jpg"
+  }
+]
+
